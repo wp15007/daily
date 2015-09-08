@@ -23,11 +23,14 @@
 - [CODEPREP](https://codeprep.jp/)のスキマ学習
 - [e-typing](http://www.e-typing.ne.jp/english/)のスキマ学習
 
+
+
 ### problem(問題なのでやめること)
 
 - 資格試験までの道のりが見えていない
 
 ### try(今後、試してみたいこと)
+
 
 - [CODEPREP](https://codeprep.jp/)htmlとcssをヒント無しでやってみる
 - 資格試験までのスケジュールを立ててみる
