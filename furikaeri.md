@@ -1,7 +1,7 @@
 # 振り返り
 
 ---
-## 09/09
+## 09/10
 
 ### keep(今後も続けること)
 
@@ -9,11 +9,28 @@
 
 ### problem(問題なのでやめること)
 
-- 
+-　　
 
 ### try(今後、試してみたいこと)
 
 - 
+
+---
+## 09/09
+
+### keep(今後も続けること)
+
+- [CODEPREP](https://codeprep.jp/)のスキマ学習
+- [e-typing](http://www.e-typing.ne.jp/english/)のスキマ学習
+- 自宅での復習
+
+### problem(問題なのでやめること)
+
+- 
+
+### try(今後、試してみたいこと)
+
+- とりあえずwebサイトを作ってみる
 
 ---
 ## 09/08
@@ -23,16 +40,13 @@
 - [CODEPREP](https://codeprep.jp/)のスキマ学習
 - [e-typing](http://www.e-typing.ne.jp/english/)のスキマ学習
 
-
-
 ### problem(問題なのでやめること)
 
-- 資格試験までの道のりが見えていない
+- 資格試験までの道のりが見えていない　　
 
 ### try(今後、試してみたいこと)
 
-
-- [CODEPREP](https://codeprep.jp/)htmlとcssをヒント無しでやってみる
+- [CODEPREP](https://codeprep.jp/)のHTMLとCSSはヒント無しでやってみる
 - 資格試験までのスケジュールを立ててみる
 
 ---
