@@ -1,5 +1,21 @@
 # 振り返り
+---
+## 09/14
 
+### keep(今後も続けること)
+
+- [CODEPREP](https://codeprep.jp/)のスキマ学習
+- [e-typing](http://www.e-typing.ne.jp/english/)のスキマ学習
+- 自宅での復習
+- webサイト制作
+
+### problem(問題なのでやめること)
+
+- 
+
+### try(今後、試してみたいこと)
+
+- 自宅PCでGenymotionのインストール
 ---
 ## 09/11
 
