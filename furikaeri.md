@@ -1,5 +1,22 @@
 # 振り返り
 ---
+## 09/16
+
+### keep(今後も続けること)
+
+- [CODEPREP](https://codeprep.jp/)のスキマ学習
+- [e-typing](http://www.e-typing.ne.jp/english/)のスキマ学習
+- 自宅での復習
+- webサイト制作
+
+### problem(問題なのでやめること)
+
+- タイプミス
+
+### try(今後、試してみたいこと)
+
+- 
+---
 ## 09/15
 
 ### keep(今後も続けること)
