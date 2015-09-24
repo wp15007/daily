@@ -1,5 +1,26 @@
 # 振り返り
 ---
+## 09/24
+
+### keep(今後も続けること)
+
+- [CODEPREP](https://codeprep.jp/)のスキマ学習
+- [e-typing](http://www.e-typing.ne.jp/english/)のスキマ学習
+- 自宅での復習
+- webサイト制作
+- エラーのチェック（エラー箇所の前後のプログラムまでチェックする）
+- LAMP環境を理解する
+
+### problem(問題なのでやめること)
+
+- 
+
+### try(今後、試してみたいこと)
+
+- Apache2,MySQL,PHP,WordPressのインストール
+- JavaScriptの勉強
+
+---
 ## 09/18
 
 ### keep(今後も続けること)
