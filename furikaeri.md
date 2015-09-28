@@ -1,5 +1,26 @@
 # 振り返り
 ---
+## 09/28
+
+### keep(今後も続けること)
+
+- [CODEPREP](https://codeprep.jp/)のスキマ学習
+- [e-typing](http://www.e-typing.ne.jp/english/)のスキマ学習
+- 自宅での復習
+- webサイト制作
+- エラーのチェック（エラー箇所の前後のプログラムまでチェックする）
+- LAMP環境を理解する
+- JavaScriptの勉強
+
+### problem(問題なのでやめること)
+
+- 
+
+### try(今後、試してみたいこと)
+
+- [GoogleAnalytics]を使いこなす(https://www.google.com/intl/ja_jp/analytics/)
+
+---
 ## 09/25
 
 ### keep(今後も続けること)
