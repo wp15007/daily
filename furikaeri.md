@@ -1,5 +1,27 @@
 # 振り返り
 ---
+## 09/30
+
+### keep(今後も続けること)
+
+- [CODEPREP](https://codeprep.jp/)のスキマ学習
+- 自宅での復習
+- webサイト制作
+- LAMP環境を理解する
+- JavaScriptの勉強
+- 教科書以外の書籍を読んでみる
+- [GoogleAnalytics](https://www.google.com/intl/ja_jp/analytics/)の機能を試す
+
+### problem(問題なのでやめること)
+
+- 
+
+### try(今後、試してみたいこと)
+
+- webサイト公開
+- [progate](http://prog-8.com/)
+
+---
 ## 09/29
 
 ### keep(今後も続けること)
