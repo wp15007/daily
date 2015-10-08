@@ -1,5 +1,25 @@
 # 振り返り
 ---
+## 10/08
+
+### keep(今後も続けること)
+
+- [CODEPREP](https://codeprep.jp/)
+- [progate](http://prog-8.com/)
+- 自宅での復習
+- webサイト制作
+- JavaScriptの勉強
+- 教科書以外の書籍を読む
+
+### problem(問題なのでやめること)
+
+- 
+
+### try(今後、試してみたいこと)
+
+- webサイト公開
+
+---
 ## 10/07
 
 ### keep(今後も続けること)
