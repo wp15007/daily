@@ -1,5 +1,27 @@
 # 振り返り
 ---
+## 10/28
+
+### keep(今後も続けること)
+
+- [CODEPREP](https://codeprep.jp/)
+- [progate](http://prog-8.com/)
+- 自宅での復習
+- 教科書以外の書籍を読む
+- Webクリエイター試験対策
+- jQueryの勉強
+- webサイト制作（休止中）
+
+### problem(問題なのでやめること)
+
+- 
+
+### try(今後、試してみたいこと)
+
+- webサイト公開
+- [ドットインストール](http://dotinstall.com/)
+
+---
 ## 10/27
 
 ### keep(今後も続けること)
